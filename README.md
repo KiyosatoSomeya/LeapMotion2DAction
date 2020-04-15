@@ -14,10 +14,10 @@ If you want to play this game, you need to include these packages:
 
 © Unity Technologies Japan/UCL
 
-You need this 3D model to use as player.
+You need this 3D model to use as a player.
 
 * [Leap Motion Core Assets v2.3.0](https://github.com/leapmotion/LeapMotionCoreAssets/releases/tag/v2.3.0)
 
-You also need to setup your PC [here](https://developer.leapmotion.com/setup/desktop).
+You also need to set up your PC [here](https://developer.leapmotion.com/setup/desktop).
 
 
