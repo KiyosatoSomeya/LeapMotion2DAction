@@ -11,11 +11,13 @@ but I'm not responsible for the behavior.
 If you want to play this game, you need to include these packages:
 
 * [SDユニティーちゃん 3Dモデルデータ](https://unity-chan.com/download/releaseNote.php?id=SDUnityChan) 
+
 © Unity Technologies Japan/UCL
 
 You need this 3D model to use as player.
 
 * [Leap Motion Core Assets v2.3.0](https://github.com/leapmotion/LeapMotionCoreAssets/releases/tag/v2.3.0)
+
 You also need to setup your PC [here](https://developer.leapmotion.com/setup/desktop).
 
 
